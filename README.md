@@ -20,10 +20,12 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-Estudando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por Machine Learning.
+Formado em Análise e Desenvolvimento de Sistemas.
 
-Abaixo possui outras linguagens a qual já mexi um pouco:
+## 💼 Experiência Profissional
+Júnior - Sisgel (Setembro, 2024 - Presente)
 
+Atuando como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; C#, Blazor, Radzen, REST API e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
 
 <img src="https://raw.githubusercontent.com/zGuilhermeTM/zGuilhermeTM/output/snake.svg" alt="Snake animation" />
 
