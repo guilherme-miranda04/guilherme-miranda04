@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-miranda04&layout=compact&theme=dark)](https://github.com/guilherme-miranda04/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu sou mais habituado!
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +20,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-Formado em Análise e Desenvolvimento de Sistemas.
+Formado em Análise e Desenvolvimento de Sistemas no SENAC de Santa Catarina.
 
 ## 💼 Experiência Profissional
 Júnior - Sisgel (Setembro, 2024 - Presente)
