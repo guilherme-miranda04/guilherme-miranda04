@@ -23,9 +23,16 @@
 Formado em Análise e Desenvolvimento de Sistemas no SENAC de Santa Catarina.
 
 ## 💼 Experiência Profissional
-Júnior - Sisgel (Setembro, 2024 - Presente)
+Júnior - Sisgel (Setembro, 2024 - Dezembro 2025)
 
 Atuando como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; C#, Blazor, Radzen, REST API e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
+
+Desenvolvedor Full Stack Júnior - Sollo Digital (Abril, 2025 - Presente)
+
+Atuando como Desenvolvedor Fullstack, utilizando tecnologias como angular, typescript, ionic, firebase, typesense e astro. Contribuindo com o desenvolvimento de 1 aplicativo (ios, android e website) e 4 sites, sendo eles o sollo-app, public profile, sollo-admin, sollo-business e sollocard.
+
+Meu perfil profissional: @guilherme-sollodigital
+[guilherme-sollodigital](https://github.com/guilherme-sollodigital)
 
 <img src="https://raw.githubusercontent.com/zGuilhermeTM/zGuilhermeTM/output/snake.svg" alt="Snake animation" />
 
