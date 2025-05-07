@@ -31,8 +31,9 @@ Desenvolvedor Full Stack Júnior - Sollo Digital (Abril, 2025 - Presente)
 
 Atuando como Desenvolvedor Fullstack, utilizando tecnologias como angular, typescript, ionic, firebase, typesense e astro. Contribuindo com o desenvolvimento de 1 aplicativo (ios, android e website) e 4 sites, sendo eles o sollo-app, public profile, sollo-admin, sollo-business e sollocard.
 
-Meu perfil profissional: @guilherme-sollodigital
 [guilherme-sollodigital](https://github.com/guilherme-sollodigital)
+Meu perfil profissional: @guilherme-sollodigital
+
 
 <img src="https://raw.githubusercontent.com/zGuilhermeTM/zGuilhermeTM/output/snake.svg" alt="Snake animation" />
 
