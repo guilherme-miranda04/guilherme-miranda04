@@ -33,6 +33,7 @@ Atuando como Desenvolvedor Fullstack, utilizando tecnologias como angular, types
 
 
 Meu perfil profissional: @guilherme-sollodigital
+[guilherme-sollodigital](https://github.com/guilherme-sollodigital)
 
 <img src="https://raw.githubusercontent.com/zGuilhermeTM/zGuilhermeTM/output/snake.svg" alt="Snake animation" />
 
