@@ -23,7 +23,7 @@
 Formado em Análise e Desenvolvimento de Sistemas no SENAC de Santa Catarina.
 
 ## 💼 Experiência Profissional
-Júnior - Sisgel (Setembro, 2024 - Dezembro 2025)
+Júnior - Sisgel (Setembro, 2024 - Dezembro 2024)
 
 Atuando como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; C#, Blazor, Radzen, REST API e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
 
