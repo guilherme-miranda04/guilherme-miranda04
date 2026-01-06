@@ -25,11 +25,11 @@
 Formado em Análise e Desenvolvimento de Sistemas no SENAC de Santa Catarina.
 
 ## 💼 Experiência Profissional
-Desenvolvedor Full Stack Júnior - Sisgel (Setembro, 2024 - Abril, 2025)
+- Desenvolvedor Full Stack Júnior - Sisgel (Setembro, 2024 - Abril, 2025)
 
 Atuando como membro da equipe de desenvolvimento, participando ativamente nos projetos Front-End e Back-End. Utilizei as seguintes tecnologias e frameworks: HTML, CSS e JavaScript; C#, Blazor, Radzen, REST API e GIT. Contribuí para o desenvolvimento e manutenção de sistemas, garantindo alta qualidade e eficiência nas soluções implementadas.
 
-Desenvolvedor Full Stack Júnior - Sollo Digital (Abril, 2025 - Janeiro, 2026)
+- Desenvolvedor Full Stack Júnior - Sollo Digital (Abril, 2025 - Janeiro, 2026)
 
 Atuando como membro da equipe de desenvolvimento, partipando ativamente nos projetos Front-End e Back-End com Metodologia Agile. Utilizei as seguintes tecnologias e frameworks: Ionic e Capacitor; Angular, Typescript, Firebase (Cloud), Typesense, AstroJS, REST API, Git e JIRA. Contribuindo com o Desenvolvimento de 1 aplicativo (ios, android e website) e outros 4 sites, sendo o lp-cartões, public profile, sollo-admin, sollo-business e sollocard.
 
